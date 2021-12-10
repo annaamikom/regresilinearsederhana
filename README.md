@@ -14,4 +14,4 @@ Tahapan dalam penggunaan Simple Linear Regression di artikel kali ini adalah seb
 <li>Prediction</li>
   </ol>
   <br>
-Contoh kasus: Prediksi Gaji berdasarkan Tahun Bekerja Dataset dapat diakses di:
+Contoh kasus: Prediksi Gaji berdasarkan Tahun Bekerja Dataset dapat diakses di:https://github.com/annaamikom/regresilinearsederhana.git
